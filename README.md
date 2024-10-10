@@ -19,7 +19,8 @@ This repository contains an Email Lookup Tool that leverages the Perplexity API 
   * `Title`
   * `Organization`
 * Enter Perplexity API Key:
-  * You need to input a valid Perplexity API Key in the field provided. The key can be saved securely for future use. Click on `Load API Key` after entering the key
+  * You need to input a valid Perplexity API Key in the field provided. The key can be saved securely for future use.
+  * Click on `Load API Key` after entering the key.
 * Start Email Lookup:
   * Once an Excel file is selected and the API key is entered and loaded, click "Start Email Lookup" to process the data. The tool will retrieve contact details and save the output to a new Excel file in the same directory from which the original was accessed.
 
