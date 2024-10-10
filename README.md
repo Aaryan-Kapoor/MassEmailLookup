@@ -3,7 +3,7 @@ This repository contains an Email Lookup Tool that leverages the Perplexity API 
 
 ## Installation
 * Clone the repository using `git clone`
-* To install the required dependencies, run the following commands in your terminal:
+* To install the required dependencies, run the following command in your terminal:
 
         pip install -r requirements.txt
 
