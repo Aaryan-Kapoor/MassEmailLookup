@@ -18,3 +18,5 @@ This repository contains an Email Lookup Tool that leverages the Perplexity API 
   * `LastName`
   * `Title`
   * `Organization`
+* Enter Perplexity API Key
+  * You need to input a valid Perplexity API Key in the field provided. The key can be saved securely for future use.
