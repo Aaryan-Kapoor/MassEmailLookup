@@ -10,6 +10,6 @@ This repository contains an Email Lookup Tool that leverages the Perplexity API 
 ## Usage
 # Running the Application
 * You can start the application by running:
-##
+
         python ui_test.py
 
