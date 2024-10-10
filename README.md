@@ -25,7 +25,7 @@ This repository contains an Email Lookup Tool that leverages the Perplexity API 
 
 ### Features
 * **Excel File Processing**: Reads from an Excel file and outputs the results to a new Excel file.
-* **Perplexity API Integration**: Fetches the most accurate contact details using OpenAI’s API.
-Secure API Key Storage: API keys are encrypted and securely stored locally.
+* * **Perplexity API Integration**: Fetches the most accurate contact details using OpenAI’s API.
+* **Secure API Key Storage**: API keys are encrypted and securely stored locally.
 * **Progress Bar and Notifications**: The progress of the lookup process is shown in a progress bar, and a message is displayed once processing is complete.
 * **Custom GUI**: A modern, frameless window with hover effects and dark mode.
