@@ -14,7 +14,7 @@ This repository contains an Email Lookup Tool that leverages the Perplexity API 
         python ui_test.py
 
 * Choose an Excel file `(.xlsx)` that contains the following columns:
-        * `FirstName`
-        * `LastName`
-        * `Title`
-        * `Organization`
+  * `FirstName`
+  * `LastName`
+  * `Title`
+  * `Organization`
